@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url('images/servants.jpeg');
+    background-image: url('./images/servants.jpeg');
     background-size: cover;
     background-position: center;
     line-height: 1.6;
